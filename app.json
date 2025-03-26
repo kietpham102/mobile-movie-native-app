@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mobile-movie-native-app",
+    "name": "Mobile Movie Native App",
     "slug": "mobile-movie-native-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "myapp",
+    "scheme": "movies",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
